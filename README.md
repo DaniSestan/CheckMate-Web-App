@@ -1,6 +1,5 @@
 # CheckMate Web App
-[ReactJS Resume Website Template](checkmate-web.png "ReactJS Resume Website Template")
-<img src="https://github.com/DaniSestan/CheckMateWebApp/raw/master/images/checkmate.png" alt="Checkmate" title="A cute kitten" width="25%" height="25%" />
+<img src="https://github.com/DaniSestan/CheckMate-Web-App/raw/master/checkmate-web.png" alt="Checkmate" title="A cute kitten" width="25%" height="25%" />
 
 ##Description
 This project is currently in development. The application would run the [CheckMate Test Automation Framework](https://github.com/DaniSestan/CheckMate) on a web server and would be fully accessible online, as opposed to the original framework which is stored locally and launched by your OS. The application also includes a database repository of test reports.
