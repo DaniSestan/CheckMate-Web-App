@@ -2,9 +2,9 @@
 <img src="https://github.com/DaniSestan/CheckMate-Web-App/raw/master/checkmate-web.png" alt="Checkmate Web App" title="CheckMate Web App" width="25%" height="25%" />
 
 ## Description
-This project is currently in development. The application is designed to work alongside a refactored version of [CheckMate Test Automation Framework](https://github.com/DaniSestan/CheckMate). 
+This project is currently in development. The application is designed to work alongside a refactored version of the [CheckMate Test Automation Framework](https://github.com/DaniSestan/CheckMate). 
 
-The application provides a simple UI that asks for user input needed to generate the scripts and data sets that will automate tests for web applications. Scripts and data sets would be stored to a database. Whenever the user wants to run tests, they would start the framework, which runs as a desktop application. The framework would establish a connection to the database, allowing it access to the scripts and data sets needed to execute tests. . **No coding or scripting of any kind is required to create and execute tests.**
+The application provides a simple UI that asks for user input needed to generate the scripts and data sets that will automate tests for web applications. All test-related data would be stored to a database. Whenever the user wants to run tests, they would start the framework, which runs as a desktop application. The framework would establish a connection to the database, allowing it access to the scripts and data sets needed to execute tests. . **No coding or scripting of any kind is required to create and execute tests.**
 
 The application will be designed to provide user functionality, addressing three main aspects: representing users in the database, user authentication (and accounts), and access control.
 
